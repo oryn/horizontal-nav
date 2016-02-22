@@ -1,0 +1,63 @@
+html {
+  line-height: 1.5;
+  background-color: #dbd6cf;
+  font-family: arial, sans-serif;}
+
+nav ol{
+  list-style-type:none;}
+
+h1, h2 {
+  color: #79756f;
+  font-weight: normal;
+  line-height: 1;
+  /*
+  text-shadow: 2px -5px 10px;
+  */
+  font-family: 'Bevan', cursive;}
+
+ol{
+  list-style-type:lower-roman;}
+
+  blockquote span{
+    font-size: 2.5rem;
+    color:#79756f;
+    line-height:.75;}
+
+  dt {font-weight:bold;}
+
+  a:hover
+  {color:red;}
+
+  ol span
+  {list-style-type:circle;}
+
+  b{
+    color:#79756f;
+    font-weight:normal;}
+
+  header{
+    text-align:center;
+    background-color:#79756f;
+    padding: .25em;}
+
+  header h1{
+    color: #fff;
+    margin:0;}
+
+  body{
+    margin:0;}
+
+  nav li{
+  display: inline;}
+
+  nav a {
+    display: inline-block;
+    padding:0.5em;
+    background-color: #763837;
+    color: white;
+    text-decoration:none;
+    border-radius:.45em;
+    margin:.1em;
+    }
+
+  main{padding:.5em;}
